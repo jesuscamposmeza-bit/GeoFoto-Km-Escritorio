@@ -75,3 +75,6 @@ Además, la herramienta genera de forma automática:
 * **Habilita el GPS:** Asegúrate de tener activada la función de ubicación/GPS en tu dispositivo móvil o cámara antes de tomar las fotos en campo.
 * **Calidad Original:** Transfiere las fotos a tu computadora usando un cable USB, Google Drive o la aplicación "Archivos". 
 * **NO uses WhatsApp:** Esta aplicación comprime las imágenes y **elimina por completo los metadatos GPS ocultos**. Si usas fotos de WhatsApp, el programa solo podrá leer el texto impreso de la imagen (si la app de tu cámara lo añade), lo cual reduce la precisión del metraje.
+* [landing.html](https://github.com/user-attachments/files/33458027/landing.html)
+
+
