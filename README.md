@@ -1,5 +1,6 @@
 # GeoFoto Km - Escritorio 🗺️📸
-
+🛒 **¿Deseas adquirir este software?**  
+[👉 HAZ CLIC AQUÍ PARA COMPRAR LA LICENCIA EN GUMROAD](https://jesusmeza.gumroad.com/l/GeoFoto-Km-Escritorio))
 **GeoFoto Km** es una herramienta de software diseñada para ingenieros civiles, supervisores de obra, coordinadores de conservación y topógrafos. Automatiza por completo el proceso de renombrar lotes de fotografías geoetiquetadas, asignándoles su **cadenamiento (kilometraje) exacto** basándose en el eje de un archivo **DXF**.
 
 El programa genera un archivo `.zip` con las fotos organizadas y un reporte detallado en Excel, ahorrándote horas de trabajo manual en gabinete.
